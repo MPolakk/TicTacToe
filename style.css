@@ -61,7 +61,7 @@ border-top: 2px solid black;
  .x:after, .x:before {
   position: absolute;
   content: "";
-  border-left: 20px solid black;
+  border-left: 15px solid black;
   height: 100px;
   transform: rotate(45deg);
  
